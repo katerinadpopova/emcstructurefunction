@@ -1,0 +1,150 @@
+A1,EMC1 KO,WT,puro,P1,exp,WT
+A2,EMC1 KO,"R76D, K80D",puro,P1,exp,"R76D, K80D"
+A3,EMC1 KO,"H93D, E138D, N282K",puro,P1,exp,"H93D, E138D, N282K"
+A4,EMC1 KO,"M483A, R487H, Q491N",puro,P1,exp,"M483A, R487H, Q491N"
+A5,EMC1 KO,our wt EMC1 virus 15ul,puro,P1,virus,Rescue
+A7,EMC2 KO,WT,puro,P1,exp,WT
+A8,EMC2 KO,"K18A, K21A",puro,P1,exp,"K18A, K21A"
+A9,EMC2 KO,"K125E, R126D, K127E",puro,P1,exp,"K125E, R126D, K127E"
+A10,EMC2 KO,"E206A, E209A, D252A",puro,P1,exp,"E206A, E209A, D252A"
+A11,EMC2 KO,our wt EMC2 virus 15ul,puro,P1,virus,Rescue
+B1,EMC1 KO,WT,no puro,P1,exp,WT
+B2,EMC1 KO,"R76D, K80D",no puro,P1,exp,"R76D, K80D"
+B3,EMC1 KO,"H93D, E138D, N282K",no puro,P1,exp,"H93D, E138D, N282K"
+B4,EMC1 KO,"M483A, R487H, Q491N",no puro,P1,exp,"M483A, R487H, Q491N"
+B5,EMC1 KO,our wt EMC1 virus 15ul,no puro,P1,virus,Rescue
+B7,EMC2 KO,WT,no puro,P1,exp,WT
+B8,EMC2 KO,"K18A, K21A",no puro,P1,exp,"K18A, K21A"
+B9,EMC2 KO,"K125E, R126D, K127E",no puro,P1,exp,"K125E, R126D, K127E"
+B10,EMC2 KO,"E206A, E209A, D252A",no puro,P1,exp,"E206A, E209A, D252A"
+B11,EMC2 KO,our wt EMC2 virus 15ul,no puro,P1,virus,Rescue
+C1,EMC1 KO,D31K,puro,P1,exp,D31K
+C2,EMC1 KO,T82M,puro,P1,exp,T82M
+C3,EMC1 KO,"R275E, R404E",puro,P1,exp,"R275E, R404E"
+C4,EMC1 KO,G868R,puro,P1,exp,G868R
+C5,EMC1 KO,our wt EMC1 virus 75ul,puro,P1,virus,Rescue
+C7,EMC2 KO,delta Nterm 1-11,puro,P1,exp,delta Nterm 1-11
+C8,EMC2 KO,"R20E, R23E, E24K",puro,P1,exp,"R20E, R23E, E24K"
+C9,EMC2 KO,"N137A, N167A",puro,P1,exp,"N137A, N167A"
+C10,EMC2 KO,"K248E, D252K, K255E",puro,P1,exp,"K248E, D252K, K255E"
+C11,EMC2 KO,our wt EMC2 virus 75ul,puro,P1,virus,Rescue
+D1,EMC1 KO,D31K,no puro,P1,exp,D31K
+D2,EMC1 KO,T82M,no puro,P1,exp,T82M
+D3,EMC1 KO,"R275E, R404E",no puro,P1,exp,"R275E, R404E"
+D4,EMC1 KO,G868R,no puro,P1,exp,G868R
+D5,EMC1 KO,our wt EMC1 virus 75ul,no puro,P1,virus,Rescue
+D7,EMC2 KO,delta Nterm 1-11,no puro,P1,exp,delta Nterm 1-11
+D8,EMC2 KO,"R20E, R23E, E24K",no puro,P1,exp,"R20E, R23E, E24K"
+D9,EMC2 KO,"N137A, N167A",no puro,P1,exp,"N137A, N167A"
+D10,EMC2 KO,"K248E, D252K, K255E",no puro,P1,exp,"K248E, D252K, K255E"
+D11,EMC2 KO,our wt EMC2 virus 75ul,no puro,P1,virus,Rescue
+E1,EMC1 KO,R69D,puro,P1,exp,R69D
+E2,EMC1 KO,T82A,puro,P1,exp,T82A
+E3,EMC1 KO,G471R,puro,P1,exp,G471R
+E4,EMC1 KO,R881C,puro,P1,exp,R881C
+E5,EMC1 KO,KO,puro,P1,neg,KO
+E7,EMC2 KO,"R16E, K47E",puro,P1,exp,"R16E, K47E"
+E8,EMC2 KO,"E35K, R68E, D70K",puro,P1,exp,"E35K, R68E, D70K"
+E9,EMC2 KO,"E146A, E149A, Q150A",puro,P1,exp,"E146A, E149A, Q150A"
+E10,EMC2 KO,"R266A, Q269A, R273A",puro,P1,exp,"R266A, Q269A, R273A"
+E11,EMC2 KO,KO,puro,P1,neg,KO
+F1,EMC1 KO,R69D,no puro,P1,exp,R69D
+F2,EMC1 KO,T82A,no puro,P1,exp,T82A
+F3,EMC1 KO,G471R,no puro,P1,exp,G471R
+F4,EMC1 KO,R881C,no puro,P1,exp,R881C
+F5,EMC1 KO,KO,no puro,P1,neg,KO
+F7,EMC2 KO,"R16E, K47E",no puro,P1,exp,"R16E, K47E"
+F8,EMC2 KO,"E35K, R68E, D70K",no puro,P1,exp,"E35K, R68E, D70K"
+F9,EMC2 KO,"E146A, E149A, Q150A",no puro,P1,exp,"E146A, E149A, Q150A"
+F10,EMC2 KO,"R266A, Q269A, R273A",no puro,P1,exp,"R266A, Q269A, R273A"
+F11,EMC2 KO,KO,no puro,P1,neg,KO
+G1,EMC1 KO,G71S,puro,P1,exp,G71S
+G2,EMC1 KO,A144T,puro,P1,exp,A144T
+G3,EMC1 KO,"F473Y, R487K",puro,P1,exp,"F473Y, R487K"
+G4,EMC1 KO,"K951A, K957A",puro,P1,exp,"K951A, K957A"
+G7,EMC2 KO,"E13K, E14K, D17K",puro,P1,exp,"E13K, E14K, D17K"
+G8,EMC2 KO,"R80E, R81E, K90E, R112E",puro,P1,exp,"R80E, R81E, K90E, R112E"
+G9,EMC2 KO,"E168A, D170A, K173A",puro,P1,exp,"E168A, D170A, K173A"
+G10,EMC2 KO,"Q269A, E286A, E290A",puro,P1,exp,"Q269A, E286A, E290A"
+H1,EMC1 KO,G71S,no puro,P1,exp,G71S
+H2,EMC1 KO,A144T,no puro,P1,exp,A144T
+H3,EMC1 KO,"F473Y, R487K",no puro,P1,exp,"F473Y, R487K"
+H4,EMC1 KO,"K951A, K957A",no puro,P1,exp,"K951A, K957A"
+H7,EMC2 KO,"E13K, E14K, D17K",no puro,P1,exp,"E13K, E14K, D17K"
+H8,EMC2 KO,"R80E, R81E, K90E, R112E",no puro,P1,exp,"R80E, R81E, K90E, R112E"
+H9,EMC2 KO,"E168A, D170A, K173A",no puro,P1,exp,"E168A, D170A, K173A"
+H10,EMC2 KO,"Q269A, E286A, E290A",no puro,P1,exp,"Q269A, E286A, E290A"
+A7,EMC3 KO,WT,puro,P2,exp,WT
+A8,EMC3 KO,"E63K, D213K, E223K",puro,P2,exp,"E63K, D213K, E223K"
+A9,EMC3 KO,R180A,puro,P2,exp,R180A
+A4,EMC3 KO,M151L,puro,P2,exp,M151L
+A5,EMC3 KO,our wt EMC3 virus 15ul,puro,P2,virus,Rescue
+A1,EMC5 KO,WT,puro,P2,exp,WT
+A2,EMC5 KO,F22L,puro,P2,exp,F22L
+A3,EMC5 KO,K7E,puro,P2,exp,K7E
+A10,EMC5 KO,WT pKDP112,puro,P2,exp,WT pKDP112
+A11,EMC5 KO,our wt EMC5 virus 15ul,puro,P2,virus,Rescue
+B1,EMC3 KO,WT,no puro,P2,exp,WT
+B2,EMC3 KO,"E63K, D213K, E223K",no puro,P2,exp,"E63K, D213K, E223K"
+B3,EMC3 KO,R180A,no puro,P2,exp,R180A
+B4,EMC3 KO,M151L,no puro,P2,exp,M151L
+B5,EMC3 KO,our wt EMC3 virus 15ul,no puro,P2,virus,Rescue
+B7,EMC5 KO,WT,no puro,P2,exp,WT
+B8,EMC5 KO,F22L,no puro,P2,exp,F22L
+B9,EMC5 KO,K7E,no puro,P2,exp,K7E
+B10,EMC5 KO,WT pKDP112,no puro,P2,exp,WT pKDP112
+B11,EMC5 KO,our wt EMC5 virus 15ul,no puro,P2,virus,Rescue
+C7,EMC3 KO,D9A,puro,P2,exp,D9A
+C8,EMC3 KO,K70Y,puro,P2,exp,K70Y
+C9,EMC3 KO,"R59E, R62E, K216E",puro,P2,exp,"R59E, R62E, K216E"
+C4,EMC3 KO,F173Y,puro,P2,exp,F173Y
+C5,EMC3 KO,our wt EMC3 virus 75ul,puro,P2,virus,Rescue
+C1,EMC5 KO,A18L,puro,P2,exp,A18L
+C2,EMC5 KO,E75A,puro,P2,exp,E75A
+C3,EMC5 KO,"R28A, R32A",puro,P2,exp,"R28A, R32A"
+C10,EMC5 KO,WT pKDP112,puro,P2,exp,WT pKDP112
+C11,EMC5 KO,our wt EMC5 virus 75ul,puro,P2,virus,Rescue
+D1,EMC3 KO,D9A,no puro,P2,exp,D9A
+D2,EMC3 KO,K70Y,no puro,P2,exp,K70Y
+D3,EMC3 KO,"R59E, R62E, K216E",no puro,P2,exp,"R59E, R62E, K216E"
+D4,EMC3 KO,F173Y,no puro,P2,exp,F173Y
+D5,EMC3 KO,our wt EMC3 virus 75ul ,no puro,P2,virus,Rescue
+D7,EMC5 KO,A18L,no puro,P2,exp,A18L
+D8,EMC5 KO,E75A,no puro,P2,exp,E75A
+D9,EMC5 KO,"R28A, R32A",no puro,P2,exp,"R28A, R32A"
+D10,EMC5 KO,WT pKDP112,no puro,P2,exp,WT pKDP112
+D11,EMC5 KO,our wt EMC5 virus 75ul ,no puro,P2,virus,Rescue
+E7,EMC3 KO,R13E,puro,P2,exp,R13E
+E8,EMC3 KO,"V118A, I122A",puro,P2,exp,"V118A, I122A"
+E9,EMC3 KO,R147E,puro,P2,exp,R147E
+E4,EMC3 KO,"I186V, I182V",puro,P2,exp,"I186V, I182V"
+E5,EMC3 KO,KO,puro,P2,neg,KO
+E1,EMC5 KO,D44K,puro,P2,exp,D44K
+E2,EMC5 KO,"H19L, S23A, Q26L",puro,P2,exp,"H19L, S23A, Q26L"
+E3,EMC5 KO,I63L,puro,P2,exp,I63L
+E10,EMC5 KO,WT pKDP112,puro,P2,exp,WT pKDP112
+E11,EMC5 KO,KO,puro,P2,neg,KO
+F1,EMC3 KO,R13E,no puro,P2,exp,R13E
+F2,EMC3 KO,"V118A, I122A",no puro,P2,exp,"V118A, I122A"
+F3,EMC3 KO,R147E,no puro,P2,exp,R147E
+F4,EMC3 KO,"I186V, I182V",no puro,P2,exp,"I186V, I182V"
+F5,EMC3 KO,KO,no puro,P2,neg,KO
+F7,EMC5 KO,D44K,no puro,P2,exp,D44K
+F8,EMC5 KO,"H19L, S23A, Q26L",no puro,P2,exp,"H19L, S23A, Q26L"
+F9,EMC5 KO,I63L,no puro,P2,exp,I63L
+F10,EMC5 KO,WT pKDP112,no puro,P2,exp,WT pKDP112
+F11,EMC5 KO,KO,no puro,P2,neg,KO
+G7,EMC3 KO,"K42A, K43A",puro,P2,exp,"K42A, K43A"
+G8,EMC3 KO,"N114D, N117D",puro,P2,exp,"N114D, N117D"
+G9,EMC3 KO,F148L,puro,P2,exp,F148L
+G4,EMC3 KO,"K244A, H247A, E249A",puro,P2,exp,"K244A, H247A, E249A"
+G1,EMC5 KO,"D82A, R85A",puro,P2,exp,"D82A, R85A"
+G2,EMC5 KO,K7A,puro,P2,exp,K7A
+G3,EMC5 KO,F90A,puro,P2,exp,F90A
+H1,EMC3 KO,"K42A, K43A",no puro,P2,exp,"K42A, K43A"
+H2,EMC3 KO,"N114D, N117D",no puro,P2,exp,"N114D, N117D"
+H3,EMC3 KO,F148L,no puro,P2,exp,F148L
+H4,EMC3 KO,"K244A, H247A, E249A",no puro,P2,exp,"K244A, H247A, E249A"
+H7,EMC5 KO,"D82A, R85A",no puro,P2,exp,"D82A, R85A"
+H8,EMC5 KO,K7A,no puro,P2,exp,K7A
+H9,EMC5 KO,F90A,no puro,P2,exp,F90A
