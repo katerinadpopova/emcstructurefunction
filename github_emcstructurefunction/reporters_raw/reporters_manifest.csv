@@ -1,0 +1,15 @@
+B10,P2,WT,SQS,136,20200701_EMC3_5_136_d9_infection_d6_puro_Experiment_Group_sample B10.fcs
+F5,P1,EMC1 KO,SQS,136,20200701_EMC1_2_136_d9_infection_d6_puro_Experiment_Group_sample F5.fcs
+F11,P1,EMC2 KO,SQS,136,20200701_EMC1_2_136_d9_infection_d6_puro_Experiment_Group_sample F11.fcs
+F5,P2,EMC3 KO,SQS,136,20200701_EMC3_5_136_d9_infection_d6_puro_Experiment_Group_sample F5.fcs
+F11,P2,EMC5 KO,SQS,136,20200701_EMC3_5_136_d9_infection_d6_puro_Experiment_Group_sample F11.fcs
+B10,P2,WT,B1AR,110,20200630_EMC3_5_110_d9_infection_d6_puro_Experiment_Group_sample B10.fcs
+F5,P1,EMC1 KO,B1AR,110,20200630_EMC1_2_110_d9_infection_d6_puro_Experiment_Group_sample F5.fcs
+F11,P1,EMC2 KO,B1AR,110,20200630_EMC1_2_110_d9_infection_d6_puro_Experiment_Group_sample F11.fcs
+F5,P2,EMC3 KO,B1AR,110,20200630_EMC3_5_110_d9_infection_d6_puro_Experiment_Group_sample F5.fcs
+F11,P2,EMC5 KO,B1AR,110,20200630_EMC3_5_110_d9_infection_d6_puro_Experiment_Group_sample F11.fcs
+B10,P2,WT,TMEM97,111,20200701_EMC3_5_111_d9_infection_d6_puro_Experiment_Group_sample B10.fcs
+F5,P1,EMC1 KO,TMEM97,111,20200701_EMC1_2_111_d9_infection_d6_puro_Experiment_Group_sample F5.fcs
+F11,P1,EMC2 KO,TMEM97,111,20200701_EMC1_2_111_d9_infection_d6_puro_Experiment_Group_sample F11.fcs
+F5,P2,EMC3 KO,TMEM97,111,20200701_EMC3_5_111_d9_infection_d6_puro_Experiment_Group_sample F5.fcs
+F11,P2,EMC5 KO,TMEM97,111,20200701_EMC3_5_111_d9_infection_d6_puro_Experiment_Group_sample F11.fcs
